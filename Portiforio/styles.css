@@ -1,0 +1,162 @@
+body{
+    background-image: url(assets/Background/images.jfif); /* Defina o caminho da imagem aqui */
+
+}
+
+.ajustarfoto{
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin: 0 auto ;
+    
+}
+
+.vodytext{
+    color:rgb(0, 0, 0);
+}
+h1{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: aliceblue;
+  border: outset;
+  background-color: azure;
+}
+
+h2{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: aliceblue;
+    background-color: wheat;
+    
+}
+
+.centralizar{
+    text-align: center;
+    font-size: 30px;
+    color: aliceblue;
+    
+}
+
+.tt{
+    font-family: "Bebas Neue", sans-serif;
+    width: 260px;
+    height: 70px;
+    color:rgb(0, 0, 0);
+    background-color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 47px;
+    
+}
+
+.pylog{
+
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    margin-left: 300px;
+    margin-inline-start: auto ;
+    margin-inline-end: auto;
+}
+
+.javalog{
+   
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 0 auto;
+    margin-top: auto;
+    margin-inline-start: auto ;
+    margin-inline-end: auto;
+}
+
+.jslog{
+
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    margin-left: 230px;
+    margin-inline-start: auto ;
+    margin-inline-end: auto;
+
+}
+
+.csslog{
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    margin-left: 800px;
+    margin-inline-start: auto ;
+    margin-inline-end: auto;
+    margin-top: auto;
+}
+
+.rubylog{
+
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    margin-left: 400px;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+}
+
+.smaltext{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: top;
+    margin: 20px auto;
+    text-align: top;
+    font-size: 38px;   
+
+}
+
+.smorg{
+    font-size: larger;
+    margin: center;
+
+}
+
+.projectlog{
+
+    width: 300px;
+    height: 300px;
+    margin:auto; 
+    margin-right: 90px;
+    
+ 
+}
+.bottom-right {
+    position: relative;
+    display: inline-block;
+    bottom: 0;
+    left: 0px;
+    margin: 20px;
+    background-color: lightblue; 
+    padding: 20px;
+    border-radius: 5px;
+}
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .side-by-side {
+    display: inline-block;
+    margin: 20px; 
+    width: 500px;
+    height: 500px;
+ 
+    
+
+  }
